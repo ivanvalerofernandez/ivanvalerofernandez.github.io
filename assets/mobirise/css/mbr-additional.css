@@ -2322,8 +2322,8 @@ body {
   text-align: center;
 }
 .cid-qZwFRDwd1j {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qZwFRDwd1j .mbr-section-subtitle {
@@ -2333,7 +2333,7 @@ body {
 }
 .cid-qZwFRDwd1j .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #e7e7e7;
+  background: #ccd9e4;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -2370,7 +2370,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #e7e7e7;
+  background-color: #ccd9e4;
   top: 20px;
   margin-left: -30px;
 }
@@ -2389,7 +2389,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #e7e7e7;
+  background-color: #ccd9e4;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -2414,65 +2414,26 @@ body {
 .cid-qZwFRDwd1j .mbr-timeline-title {
   text-align: left;
 }
-.cid-qZwRt5jhX2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-qZwRt5jhX2 h2 {
-  text-align: left;
-}
-.cid-qZwRt5jhX2 h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qZwRt5jhX2 p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qZwRt5jhX2 .aside-content {
-  flex-basis: 100%;
-}
-.cid-qZwRt5jhX2 .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-qZwRt5jhX2 .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-qZwRt5jhX2 .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qZwRt5jhX2 .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qZwRt5jhX2 .card-img span {
-  font-size: 72px;
-  color: #707070;
+.cid-qZwYa2Y5s5 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ccd9e4;
 }
 @media (min-width: 992px) {
-  .cid-qZwRt5jhX2 .mbr-figure {
+  .cid-qZwYa2Y5s5 .mbr-figure {
     padding-right: 4rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-qZwRt5jhX2 .mbr-figure {
-    padding-right: 0;
+@media (max-width: 992px) {
+  .cid-qZwYa2Y5s5 .mbr-figure {
     padding-bottom: 1rem;
-    margin-bottom: 2rem;
   }
 }
-@media (max-width: 300px) {
-  .cid-qZwRt5jhX2 .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qZwYa2Y5s5 .mbr-text {
+  color: #000000;
+}
+.cid-qZwYa2Y5s5 .mbr-text B {
+  color: #000000;
 }
 .cid-qYLtaDvEbm .navbar {
   padding: .5rem 0;
@@ -3326,14 +3287,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qYU1TIjiRx {
-  padding-top: 60px;
+  padding-top: 105px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/dsc-3129-2000x1335.jpg");
 }
 .cid-qYU1SyStqu {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #ccd9e4;
 }
 .cid-qYU1SyStqu .content-slider {
   display: flex;
@@ -4070,7 +4031,7 @@ body {
 .cid-qYLVewuyoj {
   padding-top: 120px;
   padding-bottom: 45px;
-  background-color: #879a9f;
+  background-color: #acc8cf;
 }
 .cid-qYLVewuyoj .mbr-section-subtitle {
   color: #767676;
